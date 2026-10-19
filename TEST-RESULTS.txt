@@ -1,0 +1,1 @@
+PASS: 4320 simulated battles, type chart, AI, PP, priority, recovery, KO, rating, save/load.
